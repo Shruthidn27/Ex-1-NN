@@ -1,5 +1,5 @@
 <H3>ENTER YOUR NAME</H3> Shruthi D.N
-<H3>ENTER YOUR REGISTER NO.</H3>
+<H3>ENTER YOUR REGISTER NO.</H3> 212223240155
 <H3>EX. NO.1</H3>
 <H3>DATE</H3>
 <H1 ALIGN =CENTER> Introduction to Kaggle and Data preprocessing</H1>
@@ -96,7 +96,26 @@ print("\nLenght of X_test ",len(X_test))
 
 
 ## OUTPUT:
-SHOW YOUR OUTPUT HERE
+### dataset:
+![1 nn op 1](https://github.com/Shruthidn27/Ex-1-NN/assets/138849783/4cd38af7-5a0d-4600-983d-b9af45ddda2c)
+### Finding Missing Values:
+![1 nn op 2](https://github.com/Shruthidn27/Ex-1-NN/assets/138849783/cb8a24c3-1a3f-4db5-81da-b36846b57a0b)
+### Handling Missing values:
+![1 nn op 3](https://github.com/Shruthidn27/Ex-1-NN/assets/138849783/6ce6d9a8-3827-41a5-9fcf-28c3b1e577ac)
+### Duplicates:
+![1 nn op 4](https://github.com/Shruthidn27/Ex-1-NN/assets/138849783/5c7a5c2b-3ac5-4add-b2c9-4d13fe28c82a)
+### Normalize the dataset:
+![1 nn op 5](https://github.com/Shruthidn27/Ex-1-NN/assets/138849783/5f3f963d-8368-4e8f-803f-dc12f92bb766)
+### split the dataset into input and output:
+![1 nn op 6](https://github.com/Shruthidn27/Ex-1-NN/assets/138849783/0c0dbb1f-df9d-486f-b319-2c6dd9c9df52)
+### splitting the data for training & Testing:
+![1 nn op 7](https://github.com/Shruthidn27/Ex-1-NN/assets/138849783/107499e4-babf-49bf-9012-4e5298f1661b)
+
+
+
+
+
+
 
 
 ## RESULT:
